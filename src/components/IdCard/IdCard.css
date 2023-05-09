@@ -1,0 +1,23 @@
+.photo {
+  height: 6em;
+  padding: 0 0 0 1em;
+}
+
+.IdCard {
+  align-items: center;
+  display: flex;
+  border: 1px solid black;
+  width: 100%;
+  padding: 10px 0;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.IdCard p {
+  margin: 0;
+}
+
+.IdCard ul {
+  margin: 0;
+  padding: 0;
+}
