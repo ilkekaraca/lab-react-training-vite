@@ -1,0 +1,29 @@
+.drivercard .img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background-size: cover;
+}
+.drivercard {
+  margin: 10px;
+  display: flex;
+  height: 150px;
+  width: 800px;
+  border-radius: 4%;
+  background-color: rgb(75, 75, 200);
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.driver-info {
+  display: flex;
+  flex-direction: column;
+  font-size: 22px;
+  color: white;
+  text-align: left;
+  width: 300px;
+}
+.driver-info p {
+  margin: 0;
+}
