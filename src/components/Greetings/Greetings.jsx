@@ -1,5 +1,4 @@
 import React from "react";
-import "./style.css";
 
 export default function Greetings({ lang, children }) {
   let hello = "Hello";
@@ -12,7 +11,7 @@ export default function Greetings({ lang, children }) {
   }
 
   return (
-    <div lang={lang} className="greeting">
+    <div lang={lang} className="box-style">
       {`${hello} ${children}`}
     </div>
   );

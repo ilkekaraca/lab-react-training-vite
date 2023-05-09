@@ -44,3 +44,12 @@
 .read-the-docs {
   color: #888;
 }
+
+.box-style {
+  border: 2px solid black;
+  text-align: left;
+  margin-bottom: 20px;
+  padding: 10px;
+  font-size: 22px;
+  font-weight: bold;
+}
